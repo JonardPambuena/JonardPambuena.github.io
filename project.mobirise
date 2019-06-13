@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-04_1137",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -1083,7 +1083,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#gallery1-3\" data-app-placeholder=\"Type Text\">Tilbage</a>\n            <a class=\"btn btn-black-outline\" href=\"https://xd.adobe.com/view/d16c017e-dfe2-400b-6bd6-9110dcbcfbf0-a75d/?fullscreen\" data-app-placeholder=\"Type Text\" target=\"_blank\">LIVE DEMO</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#gallery1-3\" data-app-placeholder=\"Type Text\">Tilbage</a>\n            <a class=\"btn btn-black-outline\" href=\"https://xd.adobe.com/view/d16c017e-dfe2-400b-6bd6-9110dcbcfbf0-a75d/?fullscreen\" data-app-placeholder=\"Type Text\" target=\"_blank\">LIVE DEMO</a></div>\n    </div>\n</section>",
           "_cid": "rthV414chu",
           "_protectedParams": [],
           "_global": false,
@@ -1365,7 +1365,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content5",
-          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#gallery1-3\" data-app-placeholder=\"Type Text\">Tilbage</a>\n            <a class=\"btn btn-black-outline\" href=\"assets/files/Bilka%2010%20bud%20long.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Se de 10 Bud</a></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"index.html#gallery1-3\" data-app-placeholder=\"Type Text\">Tilbage</a>\n            <a class=\"btn btn-black-outline\" href=\"assets/files/Bilka%2010%20bud%20long.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Se de 10 Bud</a></div>\n    </div>\n</section>",
           "_cid": "rthMtMTIbm",
           "_protectedParams": [],
           "_global": false,
